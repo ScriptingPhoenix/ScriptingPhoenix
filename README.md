@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @ScriptingPhoenix
 - 👀 I’m interested in coding ;)
-- 📫 You can message me via discord: YoloWarrior#9059
