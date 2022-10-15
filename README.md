@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @ScriptingPhoenix
-- 👀 I’m interested in coding ;)
+- 👀 I’m interested in coding 
+- 💬 Talk to me about Java
